@@ -1,0 +1,17 @@
+{
+  "name": "read-files-from-directory",
+  "version": "1.0.0",
+  "description": "To read files from directory and return the list of file name",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "lodash": "^4.17.14",
+    "util": "^0.12.1"
+  }
+}
